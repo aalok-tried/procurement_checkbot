@@ -7,13 +7,13 @@ const prisma = new PrismaClient();
 
 async function main() {
   const allMaterials = await prisma.materialMaster.findMany();
-  const catalogContext = allMaterials.map(m => `${m.materialCode}: ${m.description}`).join('\n');
+  const catalogContext = allMaterials.map((m: any) => `${m.materialCode}: ${m.description}`).join('\n');
 
   const allSourceLists = await prisma.sourceList.findMany({
     select: { plant: true, plantDescription: true },
     distinct: ['plant']
   });
-  const plantContext = allSourceLists.map(p => `${p.plant}: ${p.plantDescription}`).join('\n');
+  const plantContext = allSourceLists.map((p: any) => `${p.plant}: ${p.plantDescription}`).join('\n');
 
   const prompt = "I want to buy capacitor in NY plant. I want it within 7 days - who is my best supplier";
 
@@ -31,7 +31,7 @@ ${catalogContext}
 Here is the list of available plants:
 ${plantContext}
 
-Find the materialCode from the catalog that best matches the user's requested material (e.g., if they ask for "capacitor" or "50 capacitor", use the code for "50V Ceramic Capacitor"). Be highly forgiving with typos or shorthand. Only return an empty string if it's completely ambiguous or unrelated to anything in the catalog.
+Find the materialCode from the catalog that best matches the user's requested material (e.g., if they ask for "capacitor" or "50 capacitor", use the code for "50V Ceramic Capacitor"). Be highly fo[...]
 Similarly, find the plantCode from the plant list that best matches the user's requested plant (e.g. "Dallas" matches P-10). If they did not specify a plant, return an empty string.`
   });
 
