@@ -100,14 +100,15 @@ async function runTest() {
       const isBrief = !query.toLowerCase().includes('detail');
       
       // 3. Generate Recommendation
+      const briefInstructions = '- Keep the response extremely concise. Just state the recommended supplier, the key metric (like price), their Planned Delivery Time (PDT), and 1 sentence on why.';
+      const detailedInstructions = '- Provide a thorough analysis based on the user intent. Explain why the supplier was chosen, compare them to others if relevant, and list standard prices and delivery times.';
+      
       const recommendationPrompt = `
       User's Intent/Requirement: "${object.userIntent}"
       Supplier Data: ${JSON.stringify(supplierDataContext)}
       Instructions:
       - The user has requested a **${isBrief ? 'BRIEF SUMMARY' : 'DETAILED INFO'}**.
-      ${isBrief 
-        ? '- Keep the response extremely concise. Just state the recommended supplier, the key metric (like price), their Planned Delivery Time (PDT), and 1 sentence on why. Do not list exhaustiv[...]
-        : '- Provide a thorough analysis based on the user intent. Explain why the supplier was chosen, compare them to others if relevant, and list standard prices and delivery times.'}
+      ${isBrief ? briefInstructions : detailedInstructions}
       - Act intelligently based on the User's Intent.
       `;
 
