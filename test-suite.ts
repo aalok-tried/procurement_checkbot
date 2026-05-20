@@ -81,7 +81,7 @@ async function runTest() {
         
         let averagePoPrice = 0, latestPoPrice = 0;
         if (pos.length > 0) {
-          const sum = pos.reduce((acc, p) => acc + p.procurementPrice, 0);
+          const sum = pos.reduce<number>((acc, p) => acc + p.procurementPrice, 0);
           averagePoPrice = sum / pos.length;
           latestPoPrice = pos[0].procurementPrice;
         }
@@ -106,7 +106,7 @@ async function runTest() {
       Instructions:
       - The user has requested a **${isBrief ? 'BRIEF SUMMARY' : 'DETAILED INFO'}**.
       ${isBrief 
-        ? '- Keep the response extremely concise. Just state the recommended supplier, the key metric (like price), their Planned Delivery Time (PDT), and 1 sentence on why. Do not list exhaustiv[...]'
+        ? '- Keep the response extremely concise. Just state the recommended supplier, the key metric (like price), their Planned Delivery Time (PDT), and 1 sentence on why. Do not list exhaustiv[...]
         : '- Provide a thorough analysis based on the user intent. Explain why the supplier was chosen, compare them to others if relevant, and list standard prices and delivery times.'}
       - Act intelligently based on the User's Intent.
       `;
