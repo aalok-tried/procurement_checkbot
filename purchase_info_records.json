@@ -1,0 +1,562 @@
+[
+    {
+        "Material":"MAT-1004",
+        "Vendor":"VEN-048",
+        "Plant":"PL-01",
+        "Standard price":404.71,
+        "PDT":14
+    },
+    {
+        "Material":"MAT-1009",
+        "Vendor":"VEN-015",
+        "Plant":"PL-02",
+        "Standard price":51.69,
+        "PDT":44
+    },
+    {
+        "Material":"MAT-1005",
+        "Vendor":"VEN-044",
+        "Plant":"PL-01",
+        "Standard price":218.37,
+        "PDT":29
+    },
+    {
+        "Material":"MAT-1018",
+        "Vendor":"VEN-038",
+        "Plant":"PL-01",
+        "Standard price":208.5,
+        "PDT":5
+    },
+    {
+        "Material":"MAT-1014",
+        "Vendor":"VEN-002",
+        "Plant":"PL-01",
+        "Standard price":338.32,
+        "PDT":43
+    },
+    {
+        "Material":"MAT-1003",
+        "Vendor":"VEN-015",
+        "Plant":"PL-02",
+        "Standard price":53.72,
+        "PDT":27
+    },
+    {
+        "Material":"MAT-1017",
+        "Vendor":"VEN-002",
+        "Plant":"PL-05",
+        "Standard price":365.47,
+        "PDT":8
+    },
+    {
+        "Material":"MAT-1018",
+        "Vendor":"VEN-046",
+        "Plant":"PL-02",
+        "Standard price":128.08,
+        "PDT":14
+    },
+    {
+        "Material":"MAT-1018",
+        "Vendor":"VEN-015",
+        "Plant":"PL-04",
+        "Standard price":270.46,
+        "PDT":10
+    },
+    {
+        "Material":"MAT-1015",
+        "Vendor":"VEN-018",
+        "Plant":"PL-05",
+        "Standard price":213.83,
+        "PDT":19
+    },
+    {
+        "Material":"MAT-1001",
+        "Vendor":"VEN-045",
+        "Plant":"PL-02",
+        "Standard price":234.0,
+        "PDT":6
+    },
+    {
+        "Material":"MAT-1014",
+        "Vendor":"VEN-018",
+        "Plant":"PL-03",
+        "Standard price":224.35,
+        "PDT":37
+    },
+    {
+        "Material":"MAT-1005",
+        "Vendor":"VEN-049",
+        "Plant":"PL-02",
+        "Standard price":53.46,
+        "PDT":43
+    },
+    {
+        "Material":"MAT-1011",
+        "Vendor":"VEN-006",
+        "Plant":"PL-01",
+        "Standard price":499.64,
+        "PDT":2
+    },
+    {
+        "Material":"MAT-1013",
+        "Vendor":"VEN-023",
+        "Plant":"PL-01",
+        "Standard price":484.65,
+        "PDT":17
+    },
+    {
+        "Material":"MAT-1012",
+        "Vendor":"VEN-017",
+        "Plant":"PL-05",
+        "Standard price":87.32,
+        "PDT":33
+    },
+    {
+        "Material":"MAT-1002",
+        "Vendor":"VEN-035",
+        "Plant":"PL-04",
+        "Standard price":243.27,
+        "PDT":27
+    },
+    {
+        "Material":"MAT-1004",
+        "Vendor":"VEN-006",
+        "Plant":"PL-04",
+        "Standard price":451.71,
+        "PDT":12
+    },
+    {
+        "Material":"MAT-1018",
+        "Vendor":"VEN-041",
+        "Plant":"PL-03",
+        "Standard price":192.59,
+        "PDT":26
+    },
+    {
+        "Material":"MAT-1020",
+        "Vendor":"VEN-037",
+        "Plant":"PL-03",
+        "Standard price":136.28,
+        "PDT":31
+    },
+    {
+        "Material":"MAT-1007",
+        "Vendor":"VEN-003",
+        "Plant":"PL-01",
+        "Standard price":146.2,
+        "PDT":37
+    },
+    {
+        "Material":"MAT-1008",
+        "Vendor":"VEN-006",
+        "Plant":"PL-03",
+        "Standard price":332.63,
+        "PDT":33
+    },
+    {
+        "Material":"MAT-1008",
+        "Vendor":"VEN-025",
+        "Plant":"PL-01",
+        "Standard price":81.62,
+        "PDT":20
+    },
+    {
+        "Material":"MAT-1009",
+        "Vendor":"VEN-041",
+        "Plant":"PL-04",
+        "Standard price":112.76,
+        "PDT":5
+    },
+    {
+        "Material":"MAT-1012",
+        "Vendor":"VEN-024",
+        "Plant":"PL-02",
+        "Standard price":291.69,
+        "PDT":36
+    },
+    {
+        "Material":"MAT-1012",
+        "Vendor":"VEN-043",
+        "Plant":"PL-02",
+        "Standard price":35.17,
+        "PDT":22
+    },
+    {
+        "Material":"MAT-1009",
+        "Vendor":"VEN-039",
+        "Plant":"PL-01",
+        "Standard price":33.3,
+        "PDT":39
+    },
+    {
+        "Material":"MAT-1006",
+        "Vendor":"VEN-047",
+        "Plant":"PL-05",
+        "Standard price":241.01,
+        "PDT":35
+    },
+    {
+        "Material":"MAT-1008",
+        "Vendor":"VEN-030",
+        "Plant":"PL-02",
+        "Standard price":82.93,
+        "PDT":34
+    },
+    {
+        "Material":"MAT-1013",
+        "Vendor":"VEN-041",
+        "Plant":"PL-03",
+        "Standard price":44.66,
+        "PDT":13
+    },
+    {
+        "Material":"MAT-1018",
+        "Vendor":"VEN-044",
+        "Plant":"PL-02",
+        "Standard price":38.92,
+        "PDT":6
+    },
+    {
+        "Material":"MAT-1011",
+        "Vendor":"VEN-015",
+        "Plant":"PL-01",
+        "Standard price":339.23,
+        "PDT":17
+    },
+    {
+        "Material":"MAT-1002",
+        "Vendor":"VEN-026",
+        "Plant":"PL-03",
+        "Standard price":204.87,
+        "PDT":38
+    },
+    {
+        "Material":"MAT-1009",
+        "Vendor":"VEN-014",
+        "Plant":"PL-01",
+        "Standard price":126.88,
+        "PDT":40
+    },
+    {
+        "Material":"MAT-1019",
+        "Vendor":"VEN-014",
+        "Plant":"PL-03",
+        "Standard price":24.67,
+        "PDT":7
+    },
+    {
+        "Material":"MAT-1016",
+        "Vendor":"VEN-042",
+        "Plant":"PL-04",
+        "Standard price":212.52,
+        "PDT":39
+    },
+    {
+        "Material":"MAT-1015",
+        "Vendor":"VEN-017",
+        "Plant":"PL-02",
+        "Standard price":284.79,
+        "PDT":22
+    },
+    {
+        "Material":"MAT-1005",
+        "Vendor":"VEN-048",
+        "Plant":"PL-02",
+        "Standard price":467.68,
+        "PDT":15
+    },
+    {
+        "Material":"MAT-1018",
+        "Vendor":"VEN-017",
+        "Plant":"PL-05",
+        "Standard price":336.51,
+        "PDT":22
+    },
+    {
+        "Material":"MAT-1019",
+        "Vendor":"VEN-038",
+        "Plant":"PL-04",
+        "Standard price":123.15,
+        "PDT":27
+    },
+    {
+        "Material":"MAT-1013",
+        "Vendor":"VEN-015",
+        "Plant":"PL-03",
+        "Standard price":69.78,
+        "PDT":43
+    },
+    {
+        "Material":"MAT-1005",
+        "Vendor":"VEN-032",
+        "Plant":"PL-05",
+        "Standard price":153.5,
+        "PDT":22
+    },
+    {
+        "Material":"MAT-1003",
+        "Vendor":"VEN-008",
+        "Plant":"PL-01",
+        "Standard price":464.86,
+        "PDT":6
+    },
+    {
+        "Material":"MAT-1005",
+        "Vendor":"VEN-044",
+        "Plant":"PL-02",
+        "Standard price":9.61,
+        "PDT":41
+    },
+    {
+        "Material":"MAT-1014",
+        "Vendor":"VEN-005",
+        "Plant":"PL-05",
+        "Standard price":499.23,
+        "PDT":8
+    },
+    {
+        "Material":"MAT-1013",
+        "Vendor":"VEN-039",
+        "Plant":"PL-04",
+        "Standard price":41.26,
+        "PDT":15
+    },
+    {
+        "Material":"MAT-1015",
+        "Vendor":"VEN-017",
+        "Plant":"PL-05",
+        "Standard price":255.41,
+        "PDT":10
+    },
+    {
+        "Material":"MAT-1018",
+        "Vendor":"VEN-044",
+        "Plant":"PL-01",
+        "Standard price":466.96,
+        "PDT":6
+    },
+    {
+        "Material":"MAT-1004",
+        "Vendor":"VEN-049",
+        "Plant":"PL-05",
+        "Standard price":440.24,
+        "PDT":25
+    },
+    {
+        "Material":"MAT-1009",
+        "Vendor":"VEN-008",
+        "Plant":"PL-03",
+        "Standard price":146.07,
+        "PDT":30
+    },
+    {
+        "Material":"MAT-1010",
+        "Vendor":"VEN-011",
+        "Plant":"PL-04",
+        "Standard price":417.7,
+        "PDT":21
+    },
+    {
+        "Material":"MAT-1015",
+        "Vendor":"VEN-047",
+        "Plant":"PL-01",
+        "Standard price":307.78,
+        "PDT":43
+    },
+    {
+        "Material":"MAT-1009",
+        "Vendor":"VEN-049",
+        "Plant":"PL-05",
+        "Standard price":266.83,
+        "PDT":44
+    },
+    {
+        "Material":"MAT-1006",
+        "Vendor":"VEN-007",
+        "Plant":"PL-05",
+        "Standard price":409.47,
+        "PDT":21
+    },
+    {
+        "Material":"MAT-1010",
+        "Vendor":"VEN-039",
+        "Plant":"PL-05",
+        "Standard price":466.22,
+        "PDT":8
+    },
+    {
+        "Material":"MAT-1007",
+        "Vendor":"VEN-024",
+        "Plant":"PL-02",
+        "Standard price":469.77,
+        "PDT":10
+    },
+    {
+        "Material":"MAT-1006",
+        "Vendor":"VEN-050",
+        "Plant":"PL-05",
+        "Standard price":135.91,
+        "PDT":8
+    },
+    {
+        "Material":"MAT-1017",
+        "Vendor":"VEN-039",
+        "Plant":"PL-01",
+        "Standard price":372.5,
+        "PDT":11
+    },
+    {
+        "Material":"MAT-1011",
+        "Vendor":"VEN-002",
+        "Plant":"PL-04",
+        "Standard price":139.81,
+        "PDT":40
+    },
+    {
+        "Material":"MAT-1004",
+        "Vendor":"VEN-020",
+        "Plant":"PL-03",
+        "Standard price":109.26,
+        "PDT":23
+    },
+    {
+        "Material":"MAT-1008",
+        "Vendor":"VEN-016",
+        "Plant":"PL-01",
+        "Standard price":105.78,
+        "PDT":42
+    },
+    {
+        "Material":"MAT-1019",
+        "Vendor":"VEN-006",
+        "Plant":"PL-01",
+        "Standard price":427.19,
+        "PDT":34
+    },
+    {
+        "Material":"MAT-1016",
+        "Vendor":"VEN-049",
+        "Plant":"PL-01",
+        "Standard price":246.82,
+        "PDT":5
+    },
+    {
+        "Material":"MAT-1018",
+        "Vendor":"VEN-009",
+        "Plant":"PL-02",
+        "Standard price":50.69,
+        "PDT":29
+    },
+    {
+        "Material":"MAT-1016",
+        "Vendor":"VEN-011",
+        "Plant":"PL-05",
+        "Standard price":415.53,
+        "PDT":4
+    },
+    {
+        "Material":"MAT-1009",
+        "Vendor":"VEN-039",
+        "Plant":"PL-05",
+        "Standard price":6.76,
+        "PDT":10
+    },
+    {
+        "Material":"MAT-1014",
+        "Vendor":"VEN-035",
+        "Plant":"PL-02",
+        "Standard price":320.37,
+        "PDT":18
+    },
+    {
+        "Material":"MAT-1007",
+        "Vendor":"VEN-026",
+        "Plant":"PL-03",
+        "Standard price":84.98,
+        "PDT":30
+    },
+    {
+        "Material":"MAT-1012",
+        "Vendor":"VEN-034",
+        "Plant":"PL-04",
+        "Standard price":278.08,
+        "PDT":29
+    },
+    {
+        "Material":"MAT-1015",
+        "Vendor":"VEN-016",
+        "Plant":"PL-01",
+        "Standard price":282.65,
+        "PDT":9
+    },
+    {
+        "Material":"MAT-1008",
+        "Vendor":"VEN-022",
+        "Plant":"PL-01",
+        "Standard price":42.25,
+        "PDT":11
+    },
+    {
+        "Material":"MAT-1001",
+        "Vendor":"VEN-036",
+        "Plant":"PL-05",
+        "Standard price":275.07,
+        "PDT":25
+    },
+    {
+        "Material":"MAT-1008",
+        "Vendor":"VEN-015",
+        "Plant":"PL-05",
+        "Standard price":293.34,
+        "PDT":11
+    },
+    {
+        "Material":"MAT-1001",
+        "Vendor":"VEN-046",
+        "Plant":"PL-01",
+        "Standard price":217.74,
+        "PDT":4
+    },
+    {
+        "Material":"MAT-1002",
+        "Vendor":"VEN-005",
+        "Plant":"PL-02",
+        "Standard price":157.59,
+        "PDT":4
+    },
+    {
+        "Material":"MAT-1002",
+        "Vendor":"VEN-005",
+        "Plant":"PL-03",
+        "Standard price":449.97,
+        "PDT":15
+    },
+    {
+        "Material":"MAT-1017",
+        "Vendor":"VEN-018",
+        "Plant":"PL-02",
+        "Standard price":342.62,
+        "PDT":44
+    },
+    {
+        "Material":"MAT-1016",
+        "Vendor":"VEN-035",
+        "Plant":"PL-02",
+        "Standard price":55.88,
+        "PDT":37
+    },
+    {
+        "Material":"MAT-1005",
+        "Vendor":"VEN-037",
+        "Plant":"PL-05",
+        "Standard price":442.65,
+        "PDT":28
+    },
+    {
+        "Material":"MAT-1016",
+        "Vendor":"VEN-031",
+        "Plant":"PL-02",
+        "Standard price":487.05,
+        "PDT":11
+    }
+]

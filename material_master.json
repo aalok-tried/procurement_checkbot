@@ -1,0 +1,82 @@
+[
+    {
+        "Material":"MAT-1001",
+        "Description":"Microcontroller Unit"
+    },
+    {
+        "Material":"MAT-1002",
+        "Description":"Resistor 10k Ohm"
+    },
+    {
+        "Material":"MAT-1003",
+        "Description":"Capacitor 100uF"
+    },
+    {
+        "Material":"MAT-1004",
+        "Description":"Lithium Battery 3V"
+    },
+    {
+        "Material":"MAT-1005",
+        "Description":"LED Blue 5mm"
+    },
+    {
+        "Material":"MAT-1006",
+        "Description":"Copper Wire 2mm"
+    },
+    {
+        "Material":"MAT-1007",
+        "Description":"Steel Bracket"
+    },
+    {
+        "Material":"MAT-1008",
+        "Description":"Aluminum Heat Sink"
+    },
+    {
+        "Material":"MAT-1009",
+        "Description":"DC Motor 12V"
+    },
+    {
+        "Material":"MAT-1010",
+        "Description":"LCD Display 16x2"
+    },
+    {
+        "Material":"MAT-1011",
+        "Description":"Voltage Regulator 5V"
+    },
+    {
+        "Material":"MAT-1012",
+        "Description":"Push Button Switch"
+    },
+    {
+        "Material":"MAT-1013",
+        "Description":"Relay 5V 10A"
+    },
+    {
+        "Material":"MAT-1014",
+        "Description":"Temperature Sensor"
+    },
+    {
+        "Material":"MAT-1015",
+        "Description":"Proximity Sensor"
+    },
+    {
+        "Material":"MAT-1016",
+        "Description":"Plastic Enclosure"
+    },
+    {
+        "Material":"MAT-1017",
+        "Description":"Screws M3 (Pack of 100)"
+    },
+    {
+        "Material":"MAT-1018",
+        "Description":"Nylon Washers"
+    },
+    {
+        "Material":"MAT-1019",
+        "Description":"PCB Blank"
+    },
+    {
+        "Material":"MAT-1020",
+        "Description":"Solder Wire"
+    }
+]

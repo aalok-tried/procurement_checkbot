@@ -1,0 +1,642 @@
+[
+    {
+        "Material":"MAT-1004",
+        "Material Description":"Lithium Battery 3V",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-048",
+        "Supplier Description":"Global Supply Co 48"
+    },
+    {
+        "Material":"MAT-1009",
+        "Material Description":"DC Motor 12V",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-015",
+        "Supplier Description":"Precision Parts 15"
+    },
+    {
+        "Material":"MAT-1005",
+        "Material Description":"LED Blue 5mm",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-044",
+        "Supplier Description":"Global Supply Co 44"
+    },
+    {
+        "Material":"MAT-1018",
+        "Material Description":"Nylon Washers",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-038",
+        "Supplier Description":"Global Supply Co 38"
+    },
+    {
+        "Material":"MAT-1014",
+        "Material Description":"Temperature Sensor",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-002",
+        "Supplier Description":"Global Supply Co 2"
+    },
+    {
+        "Material":"MAT-1003",
+        "Material Description":"Capacitor 100uF",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-015",
+        "Supplier Description":"Precision Parts 15"
+    },
+    {
+        "Material":"MAT-1017",
+        "Material Description":"Screws M3 (Pack of 100)",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-002",
+        "Supplier Description":"Global Supply Co 2"
+    },
+    {
+        "Material":"MAT-1018",
+        "Material Description":"Nylon Washers",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-046",
+        "Supplier Description":"Global Supply Co 46"
+    },
+    {
+        "Material":"MAT-1018",
+        "Material Description":"Nylon Washers",
+        "Plant":"PL-04",
+        "Plant Description":"Seattle Processing",
+        "Supplier":"VEN-015",
+        "Supplier Description":"Precision Parts 15"
+    },
+    {
+        "Material":"MAT-1015",
+        "Material Description":"Proximity Sensor",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-018",
+        "Supplier Description":"Global Supply Co 18"
+    },
+    {
+        "Material":"MAT-1001",
+        "Material Description":"Microcontroller Unit",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-045",
+        "Supplier Description":"Precision Parts 45"
+    },
+    {
+        "Material":"MAT-1014",
+        "Material Description":"Temperature Sensor",
+        "Plant":"PL-03",
+        "Plant Description":"Chicago Distribution",
+        "Supplier":"VEN-018",
+        "Supplier Description":"Global Supply Co 18"
+    },
+    {
+        "Material":"MAT-1005",
+        "Material Description":"LED Blue 5mm",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-049",
+        "Supplier Description":"Precision Parts 49"
+    },
+    {
+        "Material":"MAT-1011",
+        "Material Description":"Voltage Regulator 5V",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-006",
+        "Supplier Description":"Global Supply Co 6"
+    },
+    {
+        "Material":"MAT-1013",
+        "Material Description":"Relay 5V 10A",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-023",
+        "Supplier Description":"Precision Parts 23"
+    },
+    {
+        "Material":"MAT-1012",
+        "Material Description":"Push Button Switch",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-017",
+        "Supplier Description":"Precision Parts 17"
+    },
+    {
+        "Material":"MAT-1002",
+        "Material Description":"Resistor 10k Ohm",
+        "Plant":"PL-04",
+        "Plant Description":"Seattle Processing",
+        "Supplier":"VEN-035",
+        "Supplier Description":"Precision Parts 35"
+    },
+    {
+        "Material":"MAT-1004",
+        "Material Description":"Lithium Battery 3V",
+        "Plant":"PL-04",
+        "Plant Description":"Seattle Processing",
+        "Supplier":"VEN-006",
+        "Supplier Description":"Global Supply Co 6"
+    },
+    {
+        "Material":"MAT-1018",
+        "Material Description":"Nylon Washers",
+        "Plant":"PL-03",
+        "Plant Description":"Chicago Distribution",
+        "Supplier":"VEN-041",
+        "Supplier Description":"Precision Parts 41"
+    },
+    {
+        "Material":"MAT-1020",
+        "Material Description":"Solder Wire",
+        "Plant":"PL-03",
+        "Plant Description":"Chicago Distribution",
+        "Supplier":"VEN-037",
+        "Supplier Description":"Precision Parts 37"
+    },
+    {
+        "Material":"MAT-1007",
+        "Material Description":"Steel Bracket",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-003",
+        "Supplier Description":"Precision Parts 3"
+    },
+    {
+        "Material":"MAT-1008",
+        "Material Description":"Aluminum Heat Sink",
+        "Plant":"PL-03",
+        "Plant Description":"Chicago Distribution",
+        "Supplier":"VEN-006",
+        "Supplier Description":"Global Supply Co 6"
+    },
+    {
+        "Material":"MAT-1008",
+        "Material Description":"Aluminum Heat Sink",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-025",
+        "Supplier Description":"Precision Parts 25"
+    },
+    {
+        "Material":"MAT-1009",
+        "Material Description":"DC Motor 12V",
+        "Plant":"PL-04",
+        "Plant Description":"Seattle Processing",
+        "Supplier":"VEN-041",
+        "Supplier Description":"Precision Parts 41"
+    },
+    {
+        "Material":"MAT-1012",
+        "Material Description":"Push Button Switch",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-024",
+        "Supplier Description":"Global Supply Co 24"
+    },
+    {
+        "Material":"MAT-1012",
+        "Material Description":"Push Button Switch",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-043",
+        "Supplier Description":"Precision Parts 43"
+    },
+    {
+        "Material":"MAT-1009",
+        "Material Description":"DC Motor 12V",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-039",
+        "Supplier Description":"Precision Parts 39"
+    },
+    {
+        "Material":"MAT-1006",
+        "Material Description":"Copper Wire 2mm",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-047",
+        "Supplier Description":"Precision Parts 47"
+    },
+    {
+        "Material":"MAT-1008",
+        "Material Description":"Aluminum Heat Sink",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-030",
+        "Supplier Description":"Global Supply Co 30"
+    },
+    {
+        "Material":"MAT-1013",
+        "Material Description":"Relay 5V 10A",
+        "Plant":"PL-03",
+        "Plant Description":"Chicago Distribution",
+        "Supplier":"VEN-041",
+        "Supplier Description":"Precision Parts 41"
+    },
+    {
+        "Material":"MAT-1018",
+        "Material Description":"Nylon Washers",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-044",
+        "Supplier Description":"Global Supply Co 44"
+    },
+    {
+        "Material":"MAT-1011",
+        "Material Description":"Voltage Regulator 5V",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-015",
+        "Supplier Description":"Precision Parts 15"
+    },
+    {
+        "Material":"MAT-1002",
+        "Material Description":"Resistor 10k Ohm",
+        "Plant":"PL-03",
+        "Plant Description":"Chicago Distribution",
+        "Supplier":"VEN-026",
+        "Supplier Description":"Global Supply Co 26"
+    },
+    {
+        "Material":"MAT-1009",
+        "Material Description":"DC Motor 12V",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-014",
+        "Supplier Description":"Global Supply Co 14"
+    },
+    {
+        "Material":"MAT-1019",
+        "Material Description":"PCB Blank",
+        "Plant":"PL-03",
+        "Plant Description":"Chicago Distribution",
+        "Supplier":"VEN-014",
+        "Supplier Description":"Global Supply Co 14"
+    },
+    {
+        "Material":"MAT-1016",
+        "Material Description":"Plastic Enclosure",
+        "Plant":"PL-04",
+        "Plant Description":"Seattle Processing",
+        "Supplier":"VEN-042",
+        "Supplier Description":"Global Supply Co 42"
+    },
+    {
+        "Material":"MAT-1015",
+        "Material Description":"Proximity Sensor",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-017",
+        "Supplier Description":"Precision Parts 17"
+    },
+    {
+        "Material":"MAT-1005",
+        "Material Description":"LED Blue 5mm",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-048",
+        "Supplier Description":"Global Supply Co 48"
+    },
+    {
+        "Material":"MAT-1018",
+        "Material Description":"Nylon Washers",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-017",
+        "Supplier Description":"Precision Parts 17"
+    },
+    {
+        "Material":"MAT-1019",
+        "Material Description":"PCB Blank",
+        "Plant":"PL-04",
+        "Plant Description":"Seattle Processing",
+        "Supplier":"VEN-038",
+        "Supplier Description":"Global Supply Co 38"
+    },
+    {
+        "Material":"MAT-1013",
+        "Material Description":"Relay 5V 10A",
+        "Plant":"PL-03",
+        "Plant Description":"Chicago Distribution",
+        "Supplier":"VEN-015",
+        "Supplier Description":"Precision Parts 15"
+    },
+    {
+        "Material":"MAT-1005",
+        "Material Description":"LED Blue 5mm",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-032",
+        "Supplier Description":"Global Supply Co 32"
+    },
+    {
+        "Material":"MAT-1003",
+        "Material Description":"Capacitor 100uF",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-008",
+        "Supplier Description":"Global Supply Co 8"
+    },
+    {
+        "Material":"MAT-1005",
+        "Material Description":"LED Blue 5mm",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-044",
+        "Supplier Description":"Global Supply Co 44"
+    },
+    {
+        "Material":"MAT-1014",
+        "Material Description":"Temperature Sensor",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-005",
+        "Supplier Description":"Precision Parts 5"
+    },
+    {
+        "Material":"MAT-1013",
+        "Material Description":"Relay 5V 10A",
+        "Plant":"PL-04",
+        "Plant Description":"Seattle Processing",
+        "Supplier":"VEN-039",
+        "Supplier Description":"Precision Parts 39"
+    },
+    {
+        "Material":"MAT-1015",
+        "Material Description":"Proximity Sensor",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-017",
+        "Supplier Description":"Precision Parts 17"
+    },
+    {
+        "Material":"MAT-1018",
+        "Material Description":"Nylon Washers",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-044",
+        "Supplier Description":"Global Supply Co 44"
+    },
+    {
+        "Material":"MAT-1004",
+        "Material Description":"Lithium Battery 3V",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-049",
+        "Supplier Description":"Precision Parts 49"
+    },
+    {
+        "Material":"MAT-1009",
+        "Material Description":"DC Motor 12V",
+        "Plant":"PL-03",
+        "Plant Description":"Chicago Distribution",
+        "Supplier":"VEN-008",
+        "Supplier Description":"Global Supply Co 8"
+    },
+    {
+        "Material":"MAT-1010",
+        "Material Description":"LCD Display 16x2",
+        "Plant":"PL-04",
+        "Plant Description":"Seattle Processing",
+        "Supplier":"VEN-011",
+        "Supplier Description":"Precision Parts 11"
+    },
+    {
+        "Material":"MAT-1015",
+        "Material Description":"Proximity Sensor",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-047",
+        "Supplier Description":"Precision Parts 47"
+    },
+    {
+        "Material":"MAT-1009",
+        "Material Description":"DC Motor 12V",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-049",
+        "Supplier Description":"Precision Parts 49"
+    },
+    {
+        "Material":"MAT-1006",
+        "Material Description":"Copper Wire 2mm",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-007",
+        "Supplier Description":"Precision Parts 7"
+    },
+    {
+        "Material":"MAT-1010",
+        "Material Description":"LCD Display 16x2",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-039",
+        "Supplier Description":"Precision Parts 39"
+    },
+    {
+        "Material":"MAT-1007",
+        "Material Description":"Steel Bracket",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-024",
+        "Supplier Description":"Global Supply Co 24"
+    },
+    {
+        "Material":"MAT-1006",
+        "Material Description":"Copper Wire 2mm",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-050",
+        "Supplier Description":"Global Supply Co 50"
+    },
+    {
+        "Material":"MAT-1017",
+        "Material Description":"Screws M3 (Pack of 100)",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-039",
+        "Supplier Description":"Precision Parts 39"
+    },
+    {
+        "Material":"MAT-1011",
+        "Material Description":"Voltage Regulator 5V",
+        "Plant":"PL-04",
+        "Plant Description":"Seattle Processing",
+        "Supplier":"VEN-002",
+        "Supplier Description":"Global Supply Co 2"
+    },
+    {
+        "Material":"MAT-1004",
+        "Material Description":"Lithium Battery 3V",
+        "Plant":"PL-03",
+        "Plant Description":"Chicago Distribution",
+        "Supplier":"VEN-020",
+        "Supplier Description":"Global Supply Co 20"
+    },
+    {
+        "Material":"MAT-1008",
+        "Material Description":"Aluminum Heat Sink",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-016",
+        "Supplier Description":"Global Supply Co 16"
+    },
+    {
+        "Material":"MAT-1019",
+        "Material Description":"PCB Blank",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-006",
+        "Supplier Description":"Global Supply Co 6"
+    },
+    {
+        "Material":"MAT-1016",
+        "Material Description":"Plastic Enclosure",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-049",
+        "Supplier Description":"Precision Parts 49"
+    },
+    {
+        "Material":"MAT-1018",
+        "Material Description":"Nylon Washers",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-009",
+        "Supplier Description":"Precision Parts 9"
+    },
+    {
+        "Material":"MAT-1016",
+        "Material Description":"Plastic Enclosure",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-011",
+        "Supplier Description":"Precision Parts 11"
+    },
+    {
+        "Material":"MAT-1009",
+        "Material Description":"DC Motor 12V",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-039",
+        "Supplier Description":"Precision Parts 39"
+    },
+    {
+        "Material":"MAT-1014",
+        "Material Description":"Temperature Sensor",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-035",
+        "Supplier Description":"Precision Parts 35"
+    },
+    {
+        "Material":"MAT-1007",
+        "Material Description":"Steel Bracket",
+        "Plant":"PL-03",
+        "Plant Description":"Chicago Distribution",
+        "Supplier":"VEN-026",
+        "Supplier Description":"Global Supply Co 26"
+    },
+    {
+        "Material":"MAT-1012",
+        "Material Description":"Push Button Switch",
+        "Plant":"PL-04",
+        "Plant Description":"Seattle Processing",
+        "Supplier":"VEN-034",
+        "Supplier Description":"Global Supply Co 34"
+    },
+    {
+        "Material":"MAT-1015",
+        "Material Description":"Proximity Sensor",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-016",
+        "Supplier Description":"Global Supply Co 16"
+    },
+    {
+        "Material":"MAT-1008",
+        "Material Description":"Aluminum Heat Sink",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-022",
+        "Supplier Description":"Global Supply Co 22"
+    },
+    {
+        "Material":"MAT-1001",
+        "Material Description":"Microcontroller Unit",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-036",
+        "Supplier Description":"Global Supply Co 36"
+    },
+    {
+        "Material":"MAT-1008",
+        "Material Description":"Aluminum Heat Sink",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-015",
+        "Supplier Description":"Precision Parts 15"
+    },
+    {
+        "Material":"MAT-1001",
+        "Material Description":"Microcontroller Unit",
+        "Plant":"PL-01",
+        "Plant Description":"New York Assembly",
+        "Supplier":"VEN-046",
+        "Supplier Description":"Global Supply Co 46"
+    },
+    {
+        "Material":"MAT-1002",
+        "Material Description":"Resistor 10k Ohm",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-005",
+        "Supplier Description":"Precision Parts 5"
+    },
+    {
+        "Material":"MAT-1002",
+        "Material Description":"Resistor 10k Ohm",
+        "Plant":"PL-03",
+        "Plant Description":"Chicago Distribution",
+        "Supplier":"VEN-005",
+        "Supplier Description":"Precision Parts 5"
+    },
+    {
+        "Material":"MAT-1017",
+        "Material Description":"Screws M3 (Pack of 100)",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-018",
+        "Supplier Description":"Global Supply Co 18"
+    },
+    {
+        "Material":"MAT-1016",
+        "Material Description":"Plastic Enclosure",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-035",
+        "Supplier Description":"Precision Parts 35"
+    },
+    {
+        "Material":"MAT-1005",
+        "Material Description":"LED Blue 5mm",
+        "Plant":"PL-05",
+        "Plant Description":"Miami Hub",
+        "Supplier":"VEN-037",
+        "Supplier Description":"Precision Parts 37"
+    },
+    {
+        "Material":"MAT-1016",
+        "Material Description":"Plastic Enclosure",
+        "Plant":"PL-02",
+        "Plant Description":"Austin Manufacturing",
+        "Supplier":"VEN-031",
+        "Supplier Description":"Precision Parts 31"
+    }
+]
