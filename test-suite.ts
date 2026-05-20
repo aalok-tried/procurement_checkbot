@@ -21,13 +21,13 @@ async function runTest() {
   console.log("=== STARTING PROCUREMENT TEST SUITE ===\n");
   
   const allMaterials = await prisma.materialMaster.findMany();
-  const catalogContext = allMaterials.map(m => `${m.materialCode}: ${m.description}`).join('\n');
+  const catalogContext = allMaterials.map((m: any) => `${m.materialCode}: ${m.description}`).join('\n');
 
   const allSourceLists = await prisma.sourceList.findMany({
     select: { plant: true, plantDescription: true },
     distinct: ['plant']
   });
-  const plantContext = allSourceLists.map(p => `${p.plant}: ${p.plantDescription}`).join('\n');
+  const plantContext = allSourceLists.map((p: any) => `${p.plant}: ${p.plantDescription}`).join('\n');
 
   for (const query of testQueries) {
     console.log(`\n--------------------------------------------------`);
@@ -106,7 +106,7 @@ async function runTest() {
       Instructions:
       - The user has requested a **${isBrief ? 'BRIEF SUMMARY' : 'DETAILED INFO'}**.
       ${isBrief 
-        ? '- Keep the response extremely concise. Just state the recommended supplier, the key metric (like price), their Planned Delivery Time (PDT), and 1 sentence on why. Do not list exhaustive details.' 
+        ? '- Keep the response extremely concise. Just state the recommended supplier, the key metric (like price), their Planned Delivery Time (PDT), and 1 sentence on why. Do not list exhaustiv[...]'
         : '- Provide a thorough analysis based on the user intent. Explain why the supplier was chosen, compare them to others if relevant, and list standard prices and delivery times.'}
       - Act intelligently based on the User's Intent.
       `;
