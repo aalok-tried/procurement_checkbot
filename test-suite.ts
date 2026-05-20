@@ -81,7 +81,7 @@ async function runTest() {
         
         let averagePoPrice = 0, latestPoPrice = 0;
         if (pos.length > 0) {
-          const sum = pos.reduce<number>((acc, p) => acc + p.procurementPrice, 0);
+          const sum = pos.reduce((acc: number, p: any) => acc + p.procurementPrice, 0);
           averagePoPrice = sum / pos.length;
           latestPoPrice = pos[0].procurementPrice;
         }
